@@ -6,15 +6,14 @@ AOP-DRL: An antioxidant peptide recognition method based on deep representation 
 
 ## Datasets
 
-The dataset used in this study is publicly available in the AnOxPePred repository: \\
-\url{<https://github.com/TobiasHeOl/AnOxPePred}>.
+The dataset used in this study is publicly available in the AnOxPePred repository:https://github.com/TobiasHeOl/AnOxPePred}
 
 ## Hardware Requirements
 
 GPU: 2× NVIDIA Tesla V100 (32GB VRAM)
 Cluster: National Protein Science Center GPU Cluster Node
 
-### Software Dependencies
+## Software Dependencies
 
 ```bash
 conda create -n aopdrl python=3.9
